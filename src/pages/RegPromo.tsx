@@ -7,7 +7,6 @@ const referal_domain_registration =
 const referal_hosting = "https://www.reg.ru/hosting/?rlink=reflink-12245013";
 const referal_cloud = "https://www.reg.ru/vps/cloud/?rlink=reflink-12245013";
 const promocode = "9CD1-1415-DCAC-FE8C";
-const domain = "it-shniq.site";
 
 const RegPromo: FC = () => {
   return (

@@ -11,6 +11,10 @@ const router = createBrowserRouter([
     path: "/reg-promo",
     element: <RegPromo />,
   },
+  {
+    path: "/",
+    element: <RegPromo />,
+  },
 ]);
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
